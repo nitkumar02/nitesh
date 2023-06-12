@@ -1,0 +1,2 @@
+git remote -u origin main
+enter your name bro
